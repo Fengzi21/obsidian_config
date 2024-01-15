@@ -1,0 +1,19 @@
+{
+  "disableHeadlines": false,
+  "graphOverwrite": true,
+  "rootIndexFile": "Dashboard.md",
+  "autoCreateIndexFile": false,
+  "autoRenameIndexFile": true,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "---\nDate: 2022-12-xx\nType: folder_index\nLevel: x\naliases: []\ntags:\n- folder_index\nDescription: description\n---\n\n---\n```dataview\nTABLE Description\nWHERE contains(file.folder, this.file.folder) and Type = \"folder_index\" and Level = n\n```",
+  "autoPreviewMode": false,
+  "sortIndexFilesAlphabetically": true,
+  "sortHeadersAlphabetically": false,
+  "recursiveIndexFiles": false,
+  "renderFolderBold": true,
+  "renderFolderItalic": false,
+  "useBulletPoints": false,
+  "excludeFolders": [],
+  "skipFirstHeadline": false
+}
