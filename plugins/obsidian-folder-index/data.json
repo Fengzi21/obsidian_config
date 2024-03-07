@@ -15,5 +15,7 @@
   "renderFolderItalic": false,
   "useBulletPoints": false,
   "excludeFolders": [],
+  "recursionLimit": -1,
+  "headlineLimit": 6,
   "skipFirstHeadline": false
 }

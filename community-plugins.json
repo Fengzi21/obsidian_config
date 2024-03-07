@@ -20,5 +20,7 @@
   "url-namer",
   "table-editor-obsidian",
   "obsidian-charts",
-  "better-fn"
+  "better-fn",
+  "terminal",
+  "obsidian-terminal-plugin"
 ]

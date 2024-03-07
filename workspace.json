@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe8225b5dc96a91",
+        "id": "09eebd19210ffb2b",
         "type": "tabs",
         "children": [
           {
-            "id": "710555a99f73bdbe",
+            "id": "a0d4073c4a81a2bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Astrophysics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50247192382812
+    "width": 400.5
   },
   "right": {
     "id": "92062cd6d43f056c",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Astrophysics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Astrophysics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Astrophysics.md"
+              }
             }
           },
           {
@@ -146,11 +154,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "15f2e4e2eab86d39",
+  "active": "a0d4073c4a81a2bc",
   "lastOpenFiles": [
+    "Astrophysics.md",
+    "Untitled.md",
+    "Modern_cosmology/Notes/Ch01.md",
+    "Modern_cosmology/Notes/Ch02.md",
+    "Modern_cosmology/Notes/Ch00.md",
+    "Modern_cosmology/Notes/glossary/index.md",
+    "Modern_cosmology/Notes/glossary/Elsevier.md",
+    "Modern_cosmology/Notes/glossary/Academic Press.md",
+    "Modern_cosmology/Notes/glossary/Redshift Survey.md",
+    "Modern_cosmology/Notes/glossary/2dFGRS.md",
+    "Modern_cosmology/Notes/glossary/1.md",
+    "Modern_cosmology/Notes/glossary.md",
+    "Modern_cosmology/Notes/glossary",
+    "Modern_cosmology/Notes/Words.md",
     "Computer_Science/Python/master_python/temp.py",
     "Workspace/hello",
     "Computer_Science/Python/master_python/learn_dask/dask/Dask_Tutorial_2020-06-19-_u0OQm9qf_A.mp4",
@@ -160,8 +183,6 @@
     "Computer_Science/Python/master_python/learn_click/helloclick/venv/lib/python3.8/site-packages/pip/_vendor/chardet/euctwprober.py",
     "Computer_Science/Python/master_python/Python_Parallelism/learn_multiporcessing/ex_process.py",
     "Computer_Science/Python/master_python/learn_click/helloclick/venv/lib/python3.8/site-packages/pip/_internal/cli/__pycache__/command_context.cpython-38.pyc",
-    "Computer_Science/Python/master_python/learn_dask/dask-examples/data/processed.4.json",
-    "Computer_Science/Python/master_python/Python_Parallelism/learn_subprocess/learn_subprocess.ipynb",
     "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/MultiProcessing/processed/photo-1516972810927-80185027ca84.jpg",
     "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Matplotlib/10-Subplots/fig1.png",
     "Computer_Science/Python/master_python/learn_dask/dask-tutorial/images/array.png",
