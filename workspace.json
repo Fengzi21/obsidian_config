@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1751e068526f3744",
+    "id": "7a7cc3279f050acd",
     "type": "split",
     "children": [
       {
-        "id": "09eebd19210ffb2b",
+        "id": "a7bc67d2be5b0775",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d4073c4a81a2bc",
+            "id": "be3ef25227b0815f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astrophysics.md",
+                "file": "Vim/Vim key bindings in shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4994fc40b249f324",
+    "id": "c1d1309533bf0b91",
     "type": "split",
     "children": [
       {
-        "id": "d7a97ac73ea2bea6",
+        "id": "238a5c465d24df4b",
         "type": "tabs",
         "children": [
           {
-            "id": "15f2e4e2eab86d39",
+            "id": "71cdcbca282330fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6241d91406b444cf",
+            "id": "bf2838d56c88b1d0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f7be4cf88d7cd0a6",
+            "id": "21ff387eb85066ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 300
   },
   "right": {
-    "id": "92062cd6d43f056c",
+    "id": "346cd092e1d5fb52",
     "type": "split",
     "children": [
       {
-        "id": "f01860555e008cee",
+        "id": "cfb174de8b8a5398",
         "type": "tabs",
         "children": [
           {
-            "id": "da9f7fc25da36528",
+            "id": "81c478ecfd6bb1c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Astrophysics.md",
+                "file": "Vim/Vim key bindings in shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "fbcb2967a029001a",
+            "id": "e835096e6ffbf603",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Astrophysics.md",
+                "file": "Vim/Vim key bindings in shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69c538afcd82999d",
+            "id": "ff3357e357dc4149",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "2b6116ab081f00e8",
+            "id": "ee0ff8fe77db1b10",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Astrophysics.md"
+                "file": "Vim/Vim key bindings in shells.md"
               }
             }
           },
           {
-            "id": "0c50d7a5551cb556",
+            "id": "31a40efc52d80d13",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,57 +153,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "terminal:Open terminal": false
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a0d4073c4a81a2bc",
+  "active": "be3ef25227b0815f",
   "lastOpenFiles": [
-    "Astrophysics.md",
-    "Untitled.md",
-    "Modern_cosmology/Notes/Ch01.md",
-    "Modern_cosmology/Notes/Ch02.md",
-    "Modern_cosmology/Notes/Ch00.md",
-    "Modern_cosmology/Notes/glossary/index.md",
-    "Modern_cosmology/Notes/glossary/Elsevier.md",
-    "Modern_cosmology/Notes/glossary/Academic Press.md",
-    "Modern_cosmology/Notes/glossary/Redshift Survey.md",
-    "Modern_cosmology/Notes/glossary/2dFGRS.md",
-    "Modern_cosmology/Notes/glossary/1.md",
-    "Modern_cosmology/Notes/glossary.md",
-    "Modern_cosmology/Notes/glossary",
-    "Modern_cosmology/Notes/Words.md",
-    "Computer_Science/Python/master_python/temp.py",
-    "Workspace/hello",
-    "Computer_Science/Python/master_python/learn_dask/dask/Dask_Tutorial_2020-06-19-_u0OQm9qf_A.mp4",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Flask_Blog/snippets/posts.json",
-    "Computer_Science/Python/master_python/learn_click/helloclick/venv/lib/python3.8/site-packages/pip/_vendor/resolvelib/__pycache__/resolvers.cpython-38.pyc",
-    "Computer_Science/Python/master_python/Python_Parallelism/learn_threading/ex_rlock.py",
-    "Computer_Science/Python/master_python/learn_click/helloclick/venv/lib/python3.8/site-packages/pip/_vendor/chardet/euctwprober.py",
-    "Computer_Science/Python/master_python/Python_Parallelism/learn_multiporcessing/ex_process.py",
-    "Computer_Science/Python/master_python/learn_click/helloclick/venv/lib/python3.8/site-packages/pip/_internal/cli/__pycache__/command_context.cpython-38.pyc",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/MultiProcessing/processed/photo-1516972810927-80185027ca84.jpg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Matplotlib/10-Subplots/fig1.png",
-    "Computer_Science/Python/master_python/learn_dask/dask-tutorial/images/array.png",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/MultiProcessing/processed/photo-1541698444083-023c97d3f4b6.jpg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Threading/photo-1513938709626-033611b8cc03.jpg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Flask_Blog/13-Deployment-Linode/flaskblog/static/profile_pics/85ed1b444539873d.png",
-    "Computer_Science/Python/master_python/learn_dask/dask-tutorial/images/merged_grid_search_graph.svg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Flask_Blog/11-Blueprints/flaskblog/static/profile_pics/ddd3ffe2e3271c40.jpg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/MultiProcessing/photo-1504198453319-5ce911bafcde.jpg",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/Python/Flask_Blog/12-Error-Pages/flaskblog/static/profile_pics/7ef894751d31a45b.png",
-    "Computer_Science/Python/master_python/Corey_Schafer/code_snippets/README.md",
-    "Computer_Science/Python/master_python/learn_argparse/ex_Python_HOWTOs/readme.md",
-    "Computer_Science/Python/master_python/learn_dask/dask-tutorial/CONTRIBUTING.md",
-    "Computer_Science/Python/master_python/learn_rich/README.md",
-    "Computer_Science/Python/master_python/learn_pypandoc/vim-notes.md",
-    "Fengzi/Reading/牡丹亭/notes.md",
-    "第三出 训女.md",
-    "第二出 言怀.md",
-    "第四出 腐叹.md",
-    "作者题词.md",
-    "index.md",
-    "第一出 标目.md"
+    "Two-tier compilation.md",
+    "Vim/Tricks.md",
+    "Vim/Vim key bindings in shells.md",
+    "README.md"
   ]
 }
