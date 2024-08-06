@@ -8,8 +8,8 @@
   "hideIndexFiles": false,
   "indexFileInitText": "---\nDate: 2022-12-xx\nType: folder_index\nLevel: x\naliases: []\ntags:\n- folder_index\nDescription: description\n---\n\n---\n```dataview\nTABLE Description\nWHERE contains(file.folder, this.file.folder) and Type = \"folder_index\" and Level = n\n```",
   "autoPreviewMode": false,
-  "sortIndexFilesAlphabetically": true,
-  "sortHeadersAlphabetically": false,
+  "sortIndexFiles": "Alphabetically",
+  "sortHeaders": "Disabled",
   "recursiveIndexFiles": false,
   "renderFolderBold": true,
   "renderFolderItalic": false,
@@ -17,5 +17,7 @@
   "excludeFolders": [],
   "recursionLimit": -1,
   "headlineLimit": 6,
+  "sortIndexFilesAlphabetically": true,
+  "sortHeadersAlphabetically": false,
   "skipFirstHeadline": false
 }
