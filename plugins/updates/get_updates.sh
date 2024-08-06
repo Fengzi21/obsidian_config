@@ -20,6 +20,13 @@
 # wget https://github.com/vslinko/obsidian-outliner/releases/download/4.8.1/styles.css
 
 
-wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/main.js
-wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/manifest.json
-wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/styles.css
+# wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/main.js
+# wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/manifest.json
+# wget https://github.com/MarkMindCkm/obsidian-markmind/releases/download/2.0.3/styles.css
+
+
+mkdir file-tree-alternative
+cd file-tree-alternative
+wget https://github.com/ozntel/file-tree-alternative/releases/download/2.6.0/main.js
+wget https://github.com/ozntel/file-tree-alternative/releases/download/2.6.0/manifest.json
+wget https://github.com/ozntel/file-tree-alternative/releases/download/2.6.0/styles.css
