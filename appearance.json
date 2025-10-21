@@ -1,10 +1,14 @@
 {
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 15,
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 19,
   "accentColor": "",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font",
-  "interfaceFontFamily": "Hack Nerd Font"
+  "interfaceFontFamily": "Hack Nerd Font",
+  "enabledCssSnippets": [
+    "colors"
+  ],
+  "baseFontSizeAction": true
 }

@@ -14,7 +14,7 @@
   "folderCount": true,
   "folderCountOption": "files",
   "evernoteView": "Vertical",
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "iconBeforeFileName": true,
   "sortFilesBy": "name",
   "sortReverse": false,

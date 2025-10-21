@@ -2,8 +2,8 @@
   "folderNoteHide": true,
   "folderNoteType": "index",
   "folderNoteName": "index",
-  "folderNoteKey": "ctrl",
+  "folderNoteKey": "alt",
   "folderNoteAutoRename": true,
   "folderDelete2Note": false,
-  "folderNoteStrInit": "# {{FOLDER_NAME}} Overview\n {{FOLDER_BRIEF_LIVE}} \n"
+  "folderNoteStrInit": "---\nDate: 2024-08-xx\nType: folder_index\nLevel: -1\nAliases:\nTags:\nDescription:\n---\n\n---\n```dataview\nTABLE file.folder as \"Folder\", Description\nWHERE contains(file.folder, this.file.folder) and Type = \"folder_index\" and Level = n\n```"
 }
